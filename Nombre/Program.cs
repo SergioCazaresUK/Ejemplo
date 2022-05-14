@@ -32,3 +32,6 @@
 //int numeroInt = 0;
 //bool pudo = int.TryParse(numeroString, out numeroInt);
 //Console.WriteLine(pudo);
+
+string cadena = "Hola Mundo";
+Console.WriteLine(cadena.IndexOf(" "));
